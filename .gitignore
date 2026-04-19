@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.DS_Store
+
+output/
+*.png
+*.csv
+!strategy_legs.csv.example
